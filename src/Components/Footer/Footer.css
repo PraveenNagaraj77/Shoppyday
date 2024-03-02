@@ -61,6 +61,10 @@
     background: #c7c7c7;
 }
 
+.footer span{
+    color: red;
+}
+
 @media(max-width:800px){
     .footer{
         gap: 20px;
